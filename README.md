@@ -29,7 +29,7 @@
 
 # 一、Foundation model (基座模型) 
 
-## 1.1 Google 系
+## 1.1 Google系
 
 Google Brain (已合并到Google DeepMind部门)
 
