@@ -5,6 +5,7 @@
 > 🚧 持续更新...  [知乎，欢迎交流](https://www.zhihu.com/people/HiFuture_ToMyDream)   [全部大模型列表](https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit?pli=1#gid=1158069878)
 >
 > Goal:  大模型社区每周都要发布近百个模型，本项目会及时整理相关模型和文章并期望成为中文社区的大模型研究人员的模型和技术备忘录，每天会及时更新最新的模型，并详细解读技术细节~
+> 欢迎大家PR~
 
 [:world_map: The Roadmap for LLMs](#-world-map--the-roadmap-for-llms)
 
