@@ -84,7 +84,7 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 1.4 EleutherAI 
 
-> <img src="Roadmap%20of%20LLMs.assets/120px-EleutherAI_logo.png" width="60px" /> https://www.eleuther.ai/
+> <img src="Roadmap%20of%20LLMs.assets/120px-EleutherAI_logo.png" width="30px" /> https://www.eleuther.ai/
 
 |              模型名称               |  时间   | 是否开源 | 参数规模 |                   Paper                    |                            Code                            |
 | :---------------------------------: | :-----: | :------: | :------: | :----------------------------------------: | :--------------------------------------------------------: |
