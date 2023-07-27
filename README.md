@@ -6,20 +6,24 @@
 >
 > Goal: 及时更新最新的模型，详细解读技术细节
 
-- [:world_map: The Roadmap for LLMs](#-world-map--the-roadmap-for-llms)
-- [一、Foundation model (基座模型)](#--foundation-model-------)
-  * [1.1 Google 系](#11-google--)
-  * [1.2  Meta系](#12--meta-)
-  * [1.3 OpenAI系](#13-openai-)
-  * [1.4 EleutherAI](#14-eleutherai)
-  * [1.5 其他科技公司和研究院](#15-----------)
-  * [:key: 训练框架和模型训练Tricks](#-key-----------tricks)
-- [二、Instruction-tuning model (指令微调模型)](#--instruction-tuning-model---------)
-  * [2.1 Google系](#21-google-)
-  * [2.2 Meta系](#22-meta-)
-  * [2.3 OpenAI系](#23-openai-)
-  * [2.4 EleutherAI](#24-eleutherai)
-  * [2.5 其他](#25---)
+[:world_map: The Roadmap for LLMs](#-world-map--the-roadmap-for-llms)
+
+[一、Foundation model (基座模型)](#--foundation-model-------)
+
+* [1.1 Google 系](#11-google--)
+* [1.2  Meta系](#12--meta-)
+* [1.3 OpenAI系](#13-openai-)
+* [1.4 EleutherAI](#14-eleutherai)
+* [1.5 其他科技公司和研究院](#15-----------)
+* [:key: 训练框架和模型训练Tricks](#-key-----------tricks)
+
+[二、Instruction-tuning model (指令微调模型)](#--instruction-tuning-model---------)
+* [2.1 Google系](#21-google-)
+* [2.2 Meta系](#22-meta-)
+* [2.3 OpenAI系](#23-openai-)
+* [2.4 EleutherAI](#24-eleutherai)
+* [2.5 其他](#25---)
+
 - [三、 Multimodal (多模态模型)](#---multimodal--------)
 
 # 一、Foundation model (基座模型) 
