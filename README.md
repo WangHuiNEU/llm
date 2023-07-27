@@ -25,7 +25,7 @@
 * [2.5 其他科技公司和研究院](#25-----------)
 * [:key: 训练框架和模型训练Tricks](#-key-----------tricks-1)
 
-- [三、 Multimodal (多模态模型)](#---multimodal--------)
+[三、 Multimodal (多模态模型)](#---multimodal--------)
 
 # 一、Foundation model (基座模型) 
 
