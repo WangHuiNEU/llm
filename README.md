@@ -75,7 +75,7 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 | :---------------------------: | :-----: | :------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              GPT              | 2018-06 |    是    |   117M    | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/openai-gpt) |
 |             GPT-2             | 2019-02 |    是    | 150M-1.5B | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/gpt2) |
-|             GPT-3             | 2020-05 |    否    | 125M-175B | [Wiki](https://en.wikipedia.org/wiki/GPT-3) [Arxiv](https://arxiv.org/abs/2005.14165) |
+|             GPT-3             | 2020-05 |    否    | 125M-175B | [Wiki](https://en.wikipedia.org/wiki/GPT-3) [Arxiv](https://arxiv.org/abs/2005.14165) |                              -                               |
 | GPT-3.5<br />(InstructionGPT) | 2022-01 |    否    |   175B    |  [Blog](https://openai.com/research/instruction-following)   |                              -                               |
 |             GPT-4             | 2023-03 |    否    |   未知    | [Blog](https://openai.com/research/instruction-following) <br />[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) |                              -                               |
 
