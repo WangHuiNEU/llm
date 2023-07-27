@@ -9,7 +9,7 @@
 
 <details>
 <summary>:world_map: The Roadmap for LLMs</summary>
-<\t>
+
 [一、Foundation model (基座模型)](#--foundation-model-------)
 * [1.1 Google 系](#11-google--)
 * [1.2  Meta系](#12--meta-)
