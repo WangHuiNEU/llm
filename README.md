@@ -116,24 +116,23 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 2.1 Google系
 
-| 单位         | 模型名称                         | 基座模型                  | 是否开源 |
-| ------------ | -------------------------------- | ------------------------- | -------- |
-| Hugging Face | T0                               | T5                        | 是       |
-| Google       | FLAN                             | T5                        | 否       |
-| Google       | Flan-T5/Faln-PaLM                | T5/PaLM                   | 否       |
-| Google       | **Bard(生成人工智能聊天机器人)** | 之前是LaMDA，后面是PaLM 2 | 否       |
+| 机构                                                         | 模型名称                                  | 基座模型                  | 是否开源 | Code                                                 |
+| ------------------------------------------------------------ | ----------------------------------------- | ------------------------- | -------- | ---------------------------------------------------- |
+| BigScience<img src="README.assets/1634806038075-5df7e9e5da6d0311fd3d53f9.png" alt="BigScience Workshop's profile picture" style="zoom: 10%;" /> | T0                                        | T5                        | 是       | [Hugging Face](https://huggingface.co/bigscience/T0) |
+| Google                                                       | FLAN                                      | T5                        | 否       | -                                                    |
+| Google                                                       | Flan-T5/Faln-PaLM                         | T5/PaLM                   | 否       | -                                                    |
+| DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | -                                                    |
+| Google DeepMind                                              | **Bard<br />(生成人工智能聊天机器人)**    | 之前是LaMDA，后面是PaLM 2 | 否       | -                                                    |
 
 
 
 ## 2.2 Meta系
 
-| 单位     | 模型名称 | 基座模型 | 是否开源 |
-| -------- | -------- | -------- | -------- |
+| 机构     | 模型名称 | 基座模型 | 是否开源 |
+| :------- | -------- | -------- | -------- |
 | Meta     | OPT-IML  | OPT-175B | 是       |
 | Stanford | Alphaca  | LLaMA    | 是       |
 | Stanford | Vicuna   | LLaMA    | 是       |
-
-
 
 
 
