@@ -9,8 +9,8 @@
 
 <details>
 <summary>:world_map: The Roadmap for LLMs</summary>
-
 [一、Foundation model (基座模型)](#--foundation-model-------)
+
 * [1.1 Google 系](#11-google--)
 * [1.2  Meta系](#12--meta-)
 * [1.3 OpenAI系](#13-openai-)
@@ -124,7 +124,7 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 | <img src="README.assets/1634806038075-5df7e9e5da6d0311fd3d53f9.png" width="30px"> BigScience |                    T0                     | T5                        | 是       | [Hugging Face](https://huggingface.co/bigscience/T0)         | [Arxiv](https://arxiv.org/pdf/2110.08207.pdf) |
 | Google                                                       |                   FLAN                    | T5                        | 是       | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/flan-t5) | [Arxiv](https://arxiv.org/abs/2210.11416)     |
 | Google                                                       |             Flan-T5/Faln-PaLM             | T5/PaLM                   | 否       | [github](https://github.com/google-research/FLAN#flan-2021-citation) | [Arxiv](https://arxiv.org/abs/2109.01652)     |
-| DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | [blog](https://www.deepmind.com/blog/building-safer-dialogue-agents) | -                                             |
+| DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | [blog](https://www.deepmind.com/blog/building-safer-dialogue-agents) | [Arxiv](https://arxiv.org/abs/2209.14375)     |
 | Google DeepMind                                              |  **Bard<br />(生成人工智能聊天机器人)**   | 之前是LaMDA，后面是PaLM 2 | 否       | [Wiki](https://www.deepmind.com/blog/building-safer-dialogue-agents)<br />[website](https://bard.google.com/) | -                                             |
 
 
