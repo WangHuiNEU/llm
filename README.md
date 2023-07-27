@@ -123,7 +123,7 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 | Google                                                       |                   FLAN                    | T5                        | 是       | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/flan-t5) | [Arxiv](https://arxiv.org/abs/2210.11416)     |
 | Google                                                       |             Flan-T5/Faln-PaLM             | T5/PaLM                   | 否       | [github](https://github.com/google-research/FLAN#flan-2021-citation) | [Arxiv](https://arxiv.org/abs/2109.01652)     |
 | DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | [blog](https://www.deepmind.com/blog/building-safer-dialogue-agents) | -                                             |
-| Google DeepMind                                              |  **Bard<br />(生成人工智能聊天机器人)**   | 之前是LaMDA，后面是PaLM 2 | 否       | [Wiki](https://www.deepmind.com/blog/building-safer-dialogue-agents) | -                                             |
+| Google DeepMind                                              |  **Bard<br />(生成人工智能聊天机器人)**   | 之前是LaMDA，后面是PaLM 2 | 否       | [Wiki](https://www.deepmind.com/blog/building-safer-dialogue-agents)<br />[website](https://bard.google.com/) | -                                             |
 
 
 
@@ -159,11 +159,11 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 | 机构                   |                           模型名称                           |      基座模型      | 是否开源 | Blog & Code                                                  | Paper                                     |
 | :--------------------- | :----------------------------------------------------------: | :----------------: | :------- | ------------------------------------------------------------ | ----------------------------------------- |
-| 北京智源人工智能研究院 | AquilaChat-7B<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-7B      | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101)<br /><br />[Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
-| 北京智源人工智能研究院 | AquilaChat-33B<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-33B     | 是       | [Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
+| 北京智源人工智能研究院 | **AquilaChat-7B (生成人工智能聊天机器人)**<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-7B      | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101)<br /><br />[Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
+| 北京智源人工智能研究院 | **AquilaChat-33B (生成人工智能聊天机器人)**<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-33B     | 是       | [Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
 | BigScience             |                            BLOOMZ                            |       BLOOM        | 是       | [Hugging Face](https://huggingface.co/bigscience/bloomz)     | [Arxiv](https://arxiv.org/abs/2211.01786) |
-| Baidu                  | 文心一言<br /><img src="README.assets/logoErnieInfo-169044526895724.png" width="80px"> |     ERNIE 3.0      | 否       | [Website](https://yiyan.baidu.com/)                          | -                                         |
-| Anthropic              | Claude2<br /><img src="README.assets/Claude2_Blog_V1-1.png" alt="克劳德 2" width="60px"> | Anthropic-LM v4-s3 | 否       | [Website](https://claude.ai/login)                           | -                                         |
+| Baidu                  | **文心一言 (生成人工智能聊天机器人)**<br /><img src="README.assets/logoErnieInfo-169044526895724.png" width="80px"> |     ERNIE 3.0      | 否       | [Website](https://yiyan.baidu.com/)                          | -                                         |
+| Anthropic              | **Claude2 (生成人工智能聊天机器人)**<br /><img src="README.assets/Claude2_Blog_V1-1.png" alt="克劳德 2" width="60px"> | Anthropic-LM v4-s3 | 否       | [Website](https://claude.ai/login)                           | -                                         |
 
 
 
