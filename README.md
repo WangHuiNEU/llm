@@ -154,7 +154,7 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 
 
-# 三、 Multimodal 多模态模型 
+# 三、 Multimodal (多模态模型)
 
 🚧 ...
 
