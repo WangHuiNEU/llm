@@ -148,21 +148,21 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 2.4 EleutherAI 
 
-| 模型名称 | 基座模型 | 是否开源 |                   Blog & Code                    |                   Paper                   |
-| :------- | :------- | :------- | :----------------------------------------------: | :---------------------------------------: |
-| GPT-NeoX | GPT-Neo  | 是       | [github](https://github.com/EleutherAI/gpt-neox) | [Arxiv](https://arxiv.org/abs/2204.06745) |
+| 模型名称     | 基座模型 | 是否开源 |                   Blog & Code                    |                   Paper                   |
+| :----------- | :------- | :------- | :----------------------------------------------: | :---------------------------------------: |
+| GPT-NeoX-20B | GPT-Neo  | 是       | [github](https://github.com/EleutherAI/gpt-neox) | [Arxiv](https://arxiv.org/abs/2204.06745) |
 
 
 
 ## 2.5 其他科技公司和研究院
 
-| 机构                   | 模型名称                                                     | 基座模型           | 是否开源 | Blog & Code                                          | Paper |
-| :--------------------- | :----------------------------------------------------------- | :----------------- | :------- | ---------------------------------------------------- | ----- |
-| 北京智源人工智能研究院 | AquilaChat-7B<br /><img src="README.assets/log.jpeg" alt="Aquila_logo" style="zoom:33%;" /> | Aquila-7B          | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101) | -     |
-| 北京智源人工智能研究院 | AquilaChat-33B                                               | Aquila-33B         | 是       |                                                      | -     |
-| BigScience             | BLOOMZ                                                       | BLOOM              | 是       |                                                      |       |
-| Baidu                  | 文心一言                                                     | ERNIE 3.0          | 否       |                                                      |       |
-| Anthropic              | Claude 2                                                     | Anthropic-LM v4-s3 | 否       |                                                      |       |
+| 机构                   |                           模型名称                           |      基座模型      | 是否开源 | Blog & Code                                                  | Paper                                     |
+| :--------------------- | :----------------------------------------------------------: | :----------------: | :------- | ------------------------------------------------------------ | ----------------------------------------- |
+| 北京智源人工智能研究院 | AquilaChat-7B<br />![Aquila_logo](README.assets/log-169044316851314.jpeg) |     Aquila-7B      | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101)<br /><br />[Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
+| 北京智源人工智能研究院 | AquilaChat-33B<br />![Aquila_logo](README.assets/log-169044317529217.jpeg) |     Aquila-33B     | 是       | [Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
+| BigScience             |                            BLOOMZ                            |       BLOOM        | 是       | [Hugging Face](https://huggingface.co/bigscience/bloomz)     | [Arxiv](https://arxiv.org/abs/2211.01786) |
+| Baidu                  |       文心一言![logo](README.assets/logoErnieInfo.png)       |     ERNIE 3.0      | 否       | [Website](https://yiyan.baidu.com/)                          | -                                         |
+| Anthropic              |   Claude 2![克劳德 2](README.assets/Claude2_Blog_V1-1.png)   | Anthropic-LM v4-s3 | 否       | [Website](https://claude.ai/login)                           | -                                         |
 
 
 
