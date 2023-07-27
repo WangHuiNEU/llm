@@ -116,23 +116,23 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 2.1 Google系
 
-| 机构                                                         | 模型名称                                  | 基座模型                  | 是否开源 | Code                                                 |
-| ------------------------------------------------------------ | ----------------------------------------- | ------------------------- | -------- | ---------------------------------------------------- |
-| BigScience<img src="README.assets/1634806038075-5df7e9e5da6d0311fd3d53f9.png" width="30px"> | T0                                        | T5                        | 是       | [Hugging Face](https://huggingface.co/bigscience/T0) |
-| Google                                                       | FLAN                                      | T5                        | 否       | -                                                    |
-| Google                                                       | Flan-T5/Faln-PaLM                         | T5/PaLM                   | 否       | -                                                    |
-| DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | -                                                    |
-| Google DeepMind                                              | **Bard<br />(生成人工智能聊天机器人)**    | 之前是LaMDA，后面是PaLM 2 | 否       | -                                                    |
+| 机构                                                         |                 模型名称                  | 基座模型                  | 是否开源 | Blog & Code                                                  | Paper                                         |
+| ------------------------------------------------------------ | :---------------------------------------: | ------------------------- | -------- | ------------------------------------------------------------ | --------------------------------------------- |
+| <img src="README.assets/1634806038075-5df7e9e5da6d0311fd3d53f9.png" width="30px"> BigScience |                    T0                     | T5                        | 是       | [Hugging Face](https://huggingface.co/bigscience/T0)         | [Arxiv](https://arxiv.org/pdf/2110.08207.pdf) |
+| Google                                                       |                   FLAN                    | T5                        | 是       | [Hugging Face](https://huggingface.co/docs/transformers/model_doc/flan-t5) | [Arxiv](https://arxiv.org/abs/2210.11416)     |
+| Google                                                       |             Flan-T5/Faln-PaLM             | T5/PaLM                   | 否       | [github](https://github.com/google-research/FLAN#flan-2021-citation) | [Arxiv](https://arxiv.org/abs/2109.01652)     |
+| DeepMind                                                     | **Sparrow<br />(生成人工智能聊天机器人)** | Chinchilla                | 否       | [blog](https://www.deepmind.com/blog/building-safer-dialogue-agents) | -                                             |
+| Google DeepMind                                              |  **Bard<br />(生成人工智能聊天机器人)**   | 之前是LaMDA，后面是PaLM 2 | 否       | [Wiki](https://www.deepmind.com/blog/building-safer-dialogue-agents) | -                                             |
 
 
 
 ## 2.2 Meta系
 
-| 机构     | 模型名称 | 基座模型 | 是否开源 |
-| :------- | -------- | -------- | -------- |
-| Meta     | OPT-IML  | OPT-175B | 是       |
-| Stanford | Alphaca  | LLaMA    | 是       |
-| Stanford | Vicuna   | LLaMA    | 是       |
+| 机构     |                           模型名称                           | 基座模型     | 是否开源 | Blog & Code                                                  | Paper                                     |
+| :------- | :----------------------------------------------------------: | ------------ | -------- | ------------------------------------------------------------ | ----------------------------------------- |
+| Meta     |                           OPT-IML                            | OPT-175B     | 是       | [Hugging Face](https://huggingface.co/facebook/opt-iml-30b)  | [Arxiv](https://arxiv.org/abs/2212.12017) |
+| Stanford | Alphaca (Alphace 7B)<br /><img src="README.assets/logo.png" width="250px"> | LLaMA-7B     | 是       | [Blog](https://crfm.stanford.edu/2023/03/13/alpaca.html)<br />[github](https://github.com/tatsu-lab/stanford_alpaca) | -                                         |
+| Stanford | Vicuna (7B, 13B)<br /><img src="README.assets/vicuna-16904411351969.jpeg" width="120px"> | LLaMA-7B/13B | 是       | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/)<br /><br />[github](https://github.com/lm-sys/FastChat#vicuna-weights) | -                                         |
 
 
 
@@ -148,23 +148,23 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 2.4 EleutherAI 
 
-| 模型名称 | 基座模型 | 是否开源 |
-| :------- | :------- | :------- |
-| GPT-NeoX | GPT-Neo  | 是       |
-
-
+| 模型名称 | 基座模型 | 是否开源 |                   Blog & Code                    |                   Paper                   |
+| :------- | :------- | :------- | :----------------------------------------------: | :---------------------------------------: |
+| GPT-NeoX | GPT-Neo  | 是       | [github](https://github.com/EleutherAI/gpt-neox) | [Arxiv](https://arxiv.org/abs/2204.06745) |
 
 
 
 ## 2.5 其他科技公司和研究院
 
-| 机构                   | 模型名称       | 基座模型           | 是否开源 |
-| :--------------------- | :------------- | :----------------- | :------- |
-| 北京智源人工智能研究院 | AquilaChat-7B  | Aquila-7B          | 是       |
-| 北京智源人工智能研究院 | AquilaChat-33B | Aquila-33B         | 是       |
-| BigScience             | BLOOMZ         | BLOOM              | 是       |
-| Baidu                  | 文心一言       | ERNIE 3.0          | 否       |
-| Anthropic              | Claude 2       | Anthropic-LM v4-s3 | 否       |
+| 机构                   | 模型名称                                                     | 基座模型           | 是否开源 | Blog & Code                                          | Paper |
+| :--------------------- | :----------------------------------------------------------- | :----------------- | :------- | ---------------------------------------------------- | ----- |
+| 北京智源人工智能研究院 | AquilaChat-7B<br /><img src="README.assets/log.jpeg" alt="Aquila_logo" style="zoom:33%;" /> | Aquila-7B          | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101) | -     |
+| 北京智源人工智能研究院 | AquilaChat-33B                                               | Aquila-33B         | 是       |                                                      | -     |
+| BigScience             | BLOOMZ                                                       | BLOOM              | 是       |                                                      |       |
+| Baidu                  | 文心一言                                                     | ERNIE 3.0          | 否       |                                                      |       |
+| Anthropic              | Claude 2                                                     | Anthropic-LM v4-s3 | 否       |                                                      |       |
+
+
 
 
 
