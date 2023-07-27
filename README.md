@@ -151,8 +151,6 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 ## 2.4 EleutherAI 
 
-
-
 | 模型名称     | 基座模型 | 是否开源 |                   Blog & Code                    |                   Paper                   |
 | :----------- | :------- | :------- | :----------------------------------------------: | :---------------------------------------: |
 | GPT-NeoX-20B | GPT-Neo  | 是       | [github](https://github.com/EleutherAI/gpt-neox) | [Arxiv](https://arxiv.org/abs/2204.06745) |
