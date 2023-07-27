@@ -7,7 +7,8 @@
 > Goal:  大模型社区每周都要发布近百个模型，本项目会及时整理相关模型和文章并期望成为中文社区的大模型研究人员的模型和技术备忘录，每天会及时更新最新的模型，并详细解读技术细节~
 > 欢迎大家PR~
 
-[:world_map: The Roadmap for LLMs](#-world-map--the-roadmap-for-llms)
+<details>
+<summary>摘要</summary>
 
 [一、Foundation model (基座模型)](#--foundation-model-------)
 
@@ -27,6 +28,9 @@
 * [:key: 训练框架和模型训练Tricks](#-key-----------tricks-1)
 
 [三、 Multimodal (多模态模型)](#---multimodal--------)
+</details>
+
+
 
 # 一、Foundation model (基座模型) 
 
