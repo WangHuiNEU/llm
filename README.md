@@ -132,8 +132,8 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 | 机构     |                           模型名称                           | 基座模型     | 是否开源 | Blog & Code                                                  | Paper                                     |
 | :------- | :----------------------------------------------------------: | ------------ | -------- | ------------------------------------------------------------ | ----------------------------------------- |
 | Meta     |                           OPT-IML                            | OPT-175B     | 是       | [Hugging Face](https://huggingface.co/facebook/opt-iml-30b)  | [Arxiv](https://arxiv.org/abs/2212.12017) |
-| Stanford | Alphaca (Alphace 7B)<br /><img src="README.assets/logo.png" width="250px"> | LLaMA-7B     | 是       | [Blog](https://crfm.stanford.edu/2023/03/13/alpaca.html)<br />[github](https://github.com/tatsu-lab/stanford_alpaca) | -                                         |
-| Stanford | Vicuna (7B, 13B)<br /><img src="README.assets/vicuna-16904411351969.jpeg" width="120px"> | LLaMA-7B/13B | 是       | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/)<br /><br />[github](https://github.com/lm-sys/FastChat#vicuna-weights) | -                                         |
+| Stanford | Alphaca (Alphace 7B)<br /><img src="README.assets/logo.png" width="100px"> | LLaMA-7B     | 是       | [Blog](https://crfm.stanford.edu/2023/03/13/alpaca.html)<br />[github](https://github.com/tatsu-lab/stanford_alpaca) | -                                         |
+| Stanford | Vicuna (7B, 13B)<br /><img src="README.assets/vicuna-16904411351969.jpeg" width="50px"> | LLaMA-7B/13B | 是       | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/)<br /><br />[github](https://github.com/lm-sys/FastChat#vicuna-weights) | -                                         |
 
 
 
@@ -162,8 +162,8 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 | 北京智源人工智能研究院 | AquilaChat-7B<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-7B      | 是       | [Blog](https://model.baai.ac.cn/model-detail/100101)<br /><br />[Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
 | 北京智源人工智能研究院 | AquilaChat-33B<br /><img src="README.assets/log-169044316851314.jpeg" width="200px"> |     Aquila-33B     | 是       | [Hugging Face](https://huggingface.co/BAAI/AquilaCode-multi) | -                                         |
 | BigScience             |                            BLOOMZ                            |       BLOOM        | 是       | [Hugging Face](https://huggingface.co/bigscience/bloomz)     | [Arxiv](https://arxiv.org/abs/2211.01786) |
-| Baidu                  |                           文心一言                           |     ERNIE 3.0      | 否       | [Website](https://yiyan.baidu.com/)                          | -                                         |
-| Anthropic              | Claude 2<br /><img src="README.assets/Claude2_Blog_V1-1.png" alt="克劳德 2" width="120px"> | Anthropic-LM v4-s3 | 否       | [Website](https://claude.ai/login)                           | -                                         |
+| Baidu                  | 文心一言<br /><img src="README.assets/logoErnieInfo-169044526895724.png" width="80px"> |     ERNIE 3.0      | 否       | [Website](https://yiyan.baidu.com/)                          | -                                         |
+| Anthropic              | Claude2<br /><img src="README.assets/Claude2_Blog_V1-1.png" alt="克劳德 2" width="60px"> | Anthropic-LM v4-s3 | 否       | [Website](https://claude.ai/login)                           | -                                         |
 
 
 
