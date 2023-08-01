@@ -8,7 +8,8 @@
 > 欢迎大家PR~
 
 <details>
-<summary>:The Landscape of LLMs(大模型全景图)</summary>
+<summary>The Landscape of LLMs(大模型全景图)</summary>
+
 [一、Foundation model (基座模型)](#--foundation-model-------)
 
 * [1.1 Google 系](#11-google--)
@@ -17,6 +18,7 @@
 * [1.4 EleutherAI](#14-eleutherai)
 * [1.5 其他科技公司和研究院](#15-----------)
 * [:key: 训练框架和模型训练Tricks](#-key-----------tricks)
+
 [二、Instruction-tuning model (指令微调模型)](#--instruction-tuning-model---------)
 
 * [2.1 Google系](#21-google-)
