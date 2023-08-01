@@ -183,7 +183,9 @@ Google DeepMind (23年4月合并Google Brain和DeepMind，命名为Google DeepMi
 
 
 
+---
 
+[ZhiHu](https://www.zhihu.com/people/HiFuture_ToMyDream) , [WeChat](https://wanghuineu.github.io/img/wechat.jpg)  欢迎交流~
 
 
 
