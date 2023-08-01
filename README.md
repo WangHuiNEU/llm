@@ -1,6 +1,6 @@
 # :world_map: The Landscape of LLMs
 
-![image-20230801144931242](README.assets/image-20230801144931242.png)
+![image-20230801145623785](README.assets/image-20230801145623785.png)
 
 > 🚧 持续更新...  [知乎，欢迎交流](https://www.zhihu.com/people/HiFuture_ToMyDream)   [全部大模型列表](https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit?pli=1#gid=1158069878)
 >
