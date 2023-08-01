@@ -10,7 +10,6 @@
 <details>
 <summary>:The Landscape of LLMs(大模型全景图)</summary>
 [一、Foundation model (基座模型)](#--foundation-model-------)
-
 * [1.1 Google 系](#11-google--)
 * [1.2  Meta系](#12--meta-)
 * [1.3 OpenAI系](#13-openai-)
