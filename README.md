@@ -1,6 +1,6 @@
-# :world_map: The Roadmap for LLMs
+# :world_map: The Landscape of LLMs
 
-![image-20230727100138263](Roadmap%20of%20LLMs.assets/image-20230727100138263.png)
+![image-20230801144931242](README.assets/image-20230801144931242.png)
 
 > 🚧 持续更新...  [知乎，欢迎交流](https://www.zhihu.com/people/HiFuture_ToMyDream)   [全部大模型列表](https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit?pli=1#gid=1158069878)
 >
@@ -8,9 +8,9 @@
 > 欢迎大家PR~
 
 <details>
-<summary>:world_map: The Roadmap for LLMs</summary>
-
+<summary>:The Landscape of LLMs(大模型全景图)</summary>
 [一、Foundation model (基座模型)](#--foundation-model-------)
+
 * [1.1 Google 系](#11-google--)
 * [1.2  Meta系](#12--meta-)
 * [1.3 OpenAI系](#13-openai-)
